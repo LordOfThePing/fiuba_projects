@@ -46,3 +46,6 @@
 [submodule "24C1 Técnicas de Programación Concurrente I [75.59]/2024-1c-tp2-concurrustence"]
 	path = 24C1 Técnicas de Programación Concurrente I [75.59]/2024-1c-tp2-concurrustence
 	url = https://github.com/concurrentes-fiuba/2024-1c-tp2-concurrustence
+[submodule "24 Trabajo Final Integrador [TIF]/pylab"]
+	path = 24 Trabajo Final Integrador [TIF]/pylab
+	url = https://github.com/fiuba-pylab/pylab
