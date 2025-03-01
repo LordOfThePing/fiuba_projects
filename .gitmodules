@@ -52,3 +52,9 @@
 [submodule "24C2 Taller de Seguridad Informática [TDSINF]/2024-G06"]
 	path = 24C2 Taller de Seguridad Informática [TDSINF]/2024-G06
 	url = https://github.com/Seguridad-Informatica-FIUBA/2024-G06
+[submodule "24C1 Gestión del Desarrollo de Sistemas Informáticos [GDSI]/Backend"]
+	path = 24C1 Gestión del Desarrollo de Sistemas Informáticos [GDSI]/Backend
+	url = https://github.com/Gestion-2024-G20/Backend
+[submodule "24C1 Gestión del Desarrollo de Sistemas Informáticos [GDSI]/Frontend"]
+	path = 24C1 Gestión del Desarrollo de Sistemas Informáticos [GDSI]/Frontend
+	url = https://github.com/Gestion-2024-G20/Frontend
