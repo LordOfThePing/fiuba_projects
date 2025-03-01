@@ -40,3 +40,9 @@
 [submodule "22C1 Probabilidad y Estadística B [61.09]/proba"]
 	path = 22C1 Probabilidad y Estadística B [61.09]/proba
 	url = https://github.com/LordOfThePing/proba
+[submodule "24C1 Técnicas de Programación Concurrente I [75.59]/2024-1c-tp1-LordOfThePing"]
+	path = 24C1 Técnicas de Programación Concurrente I [75.59]/2024-1c-tp1-LordOfThePing
+	url = https://github.com/concurrentes-fiuba/2024-1c-tp1-LordOfThePing
+[submodule "24C1 Técnicas de Programación Concurrente I [75.59]/2024-1c-tp2-concurrustence"]
+	path = 24C1 Técnicas de Programación Concurrente I [75.59]/2024-1c-tp2-concurrustence
+	url = https://github.com/concurrentes-fiuba/2024-1c-tp2-concurrustence
