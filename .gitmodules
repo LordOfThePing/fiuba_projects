@@ -16,3 +16,9 @@
 [submodule "1C22 Teoría de Lenguaje [75.31]/tdl-urlshort"]
 	path = 1C22 Teoría de Lenguaje [75.31]/tdl-urlshort
 	url = https://github.com/gabokatta/tdl-urlshort
+[submodule "2C22 Taller de Programación I [75.42]/tp1taller"]
+	path = 2C22 Taller de Programación I [75.42]/tp1taller
+	url = https://github.com/LordOfThePing/tp1taller
+[submodule "2C22 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta"]
+	path = 2C22 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta
+	url = https://github.com/taller-1-fiuba-rust/22C2-Subite-A-La-Papaneta
