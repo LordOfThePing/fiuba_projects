@@ -4,3 +4,6 @@
 [submodule "2C22 Algoritmos y Programación III [75.07]/algo3_tp2"]
 	path = 2C22 Algoritmos y Programación III [75.07]/algo3_tp2
 	url = https://github.com/LordOfThePing/algo3_tp2.git
+[submodule "1C21 Algoritmos y Programación III [75.07]/algo3_tp2"]
+	path = 1C21 Algoritmos y Programación III [75.07]/algo3_tp2
+	url = https://github.com/LordOfThePing/algo3_tp2.git
