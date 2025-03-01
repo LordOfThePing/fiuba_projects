@@ -49,3 +49,6 @@
 [submodule "24 Trabajo Final Integrador [TIF]/pylab"]
 	path = 24 Trabajo Final Integrador [TIF]/pylab
 	url = https://github.com/fiuba-pylab/pylab
+[submodule "24C2 Taller de Seguridad Informática [TDSINF]/2024-G06"]
+	path = 24C2 Taller de Seguridad Informática [TDSINF]/2024-G06
+	url = https://github.com/Seguridad-Informatica-FIUBA/2024-G06
