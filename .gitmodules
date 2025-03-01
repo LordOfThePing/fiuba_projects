@@ -7,3 +7,9 @@
 [submodule "1C21 Algoritmos y Programación III [75.07]/algo3_tp2"]
 	path = 1C21 Algoritmos y Programación III [75.07]/algo3_tp2
 	url = https://github.com/LordOfThePing/algo3_tp2.git
+[submodule "1C22 Sistemas Operativos [75.08]/sisop_2022a_flynn"]
+	path = 1C22 Sistemas Operativos [75.08]/sisop_2022a_flynn
+	url = https://github.com/fiubatps/sisop_2022a_flynn
+[submodule "1C22 Sistemas Operativos [75.08]/sisop_2022a_g20_flynn_katta"]
+	path = 1C22 Sistemas Operativos [75.08]/sisop_2022a_g20_flynn_katta
+	url = https://github.com/fiubatps/sisop_2022a_g20_flynn_katta
