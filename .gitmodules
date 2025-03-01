@@ -1,24 +1,24 @@
 [submodule "Algoritmos y Programación III [75.07]/algo3_tp2"]
 	path = Algoritmos y Programación III [75.07]/algo3_tp2
 	url = https://github.com/LordOfThePing/algo3_tp2.git
-[submodule "2C22 Algoritmos y Programación III [75.07]/algo3_tp2"]
-	path = 2C22 Algoritmos y Programación III [75.07]/algo3_tp2
+[submodule "22C2 Algoritmos y Programación III [75.07]/algo3_tp2"]
+	path = 22C2 Algoritmos y Programación III [75.07]/algo3_tp2
 	url = https://github.com/LordOfThePing/algo3_tp2.git
-[submodule "1C21 Algoritmos y Programación III [75.07]/algo3_tp2"]
-	path = 1C21 Algoritmos y Programación III [75.07]/algo3_tp2
+[submodule "21C1 Algoritmos y Programación III [75.07]/algo3_tp2"]
+	path = 21C1 Algoritmos y Programación III [75.07]/algo3_tp2
 	url = https://github.com/LordOfThePing/algo3_tp2.git
-[submodule "1C22 Sistemas Operativos [75.08]/sisop_2022a_flynn"]
-	path = 1C22 Sistemas Operativos [75.08]/sisop_2022a_flynn
+[submodule "22C1 Sistemas Operativos [75.08]/sisop_2022a_flynn"]
+	path = 22C1 Sistemas Operativos [75.08]/sisop_2022a_flynn
 	url = https://github.com/fiubatps/sisop_2022a_flynn
-[submodule "1C22 Sistemas Operativos [75.08]/sisop_2022a_g20_flynn_katta"]
-	path = 1C22 Sistemas Operativos [75.08]/sisop_2022a_g20_flynn_katta
+[submodule "22C1 Sistemas Operativos [75.08]/sisop_2022a_g20_flynn_katta"]
+	path = 22C1 Sistemas Operativos [75.08]/sisop_2022a_g20_flynn_katta
 	url = https://github.com/fiubatps/sisop_2022a_g20_flynn_katta
-[submodule "1C22 Teoría de Lenguaje [75.31]/tdl-urlshort"]
-	path = 1C22 Teoría de Lenguaje [75.31]/tdl-urlshort
+[submodule "22C1 Teoría de Lenguaje [75.31]/tdl-urlshort"]
+	path = 22C1 Teoría de Lenguaje [75.31]/tdl-urlshort
 	url = https://github.com/gabokatta/tdl-urlshort
-[submodule "2C22 Taller de Programación I [75.42]/tp1taller"]
-	path = 2C22 Taller de Programación I [75.42]/tp1taller
+[submodule "22C2 Taller de Programación I [75.42]/tp1taller"]
+	path = 22C2 Taller de Programación I [75.42]/tp1taller
 	url = https://github.com/LordOfThePing/tp1taller
-[submodule "2C22 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta"]
-	path = 2C22 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta
+[submodule "22C2 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta"]
+	path = 22C2 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta
 	url = https://github.com/taller-1-fiuba-rust/22C2-Subite-A-La-Papaneta
