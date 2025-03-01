@@ -22,3 +22,9 @@
 [submodule "22C2 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta"]
 	path = 22C2 Taller de Programación I [75.42]/22C2-Subite-A-La-Papaneta
 	url = https://github.com/taller-1-fiuba-rust/22C2-Subite-A-La-Papaneta
+[submodule "22C2 Arquitectura del Software [75.73]/2c22-tp-1-aquitectura"]
+	path = 22C2 Arquitectura del Software [75.73]/2c22-tp-1-aquitectura
+	url = https://github.com/LordOfThePing/2c22-tp-1-aquitectura
+[submodule "22C2 Arquitectura del Software [75.73]/trabajo-practico-2-nonamegroup"]
+	path = 22C2 Arquitectura del Software [75.73]/trabajo-practico-2-nonamegroup
+	url = https://github.com/fiuba-arq-soft/trabajo-practico-2-nonamegroup
