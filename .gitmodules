@@ -37,3 +37,6 @@
 [submodule "23C1 Teoría de Algoritmos I [75.29]/tda_chiquitapia"]
 	path = 23C1 Teoría de Algoritmos I [75.29]/tda_chiquitapia
 	url = https://github.com/LordOfThePing/tda_chiquitapia
+[submodule "22C1 Probabilidad y Estadística B [61.09]/proba"]
+	path = 22C1 Probabilidad y Estadística B [61.09]/proba
+	url = https://github.com/LordOfThePing/proba
