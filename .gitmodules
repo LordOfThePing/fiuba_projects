@@ -27,7 +27,7 @@
 	url = https://github.com/LordOfThePing/2c22-tp-1-aquitectura
 [submodule "22C2 Arquitectura del Software [75.73]/trabajo-practico-2-nonamegroup"]
 	path = 22C2 Arquitectura del Software [75.73]/trabajo-practico-2-nonamegroup
-	url = https://github.com/fiuba-arq-soft/trabajo-practico-2-nonamegroup
+	url = https://github.com/LordOfThePing/ASoft-trabajo-practico-2-nonamegroup
 [submodule "23C1 Introducción a los Sistemas Distribuidos [75.43]/TP-distribuidos"]
 	path = 23C1 Introducción a los Sistemas Distribuidos [75.43]/TP-distribuidos
 	url = https://github.com/LordOfThePing/TP-distribuidos
