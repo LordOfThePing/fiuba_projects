@@ -30,7 +30,7 @@
 	url = https://github.com/fiuba-arq-soft/trabajo-practico-2-nonamegroup
 [submodule "23C1 Introducción a los Sistemas Distribuidos [75.43]/TP-distribuidos"]
 	path = 23C1 Introducción a los Sistemas Distribuidos [75.43]/TP-distribuidos
-	url = https://github.com/FranciscoGauna/TP-distribuidos
+	url = https://github.com/LordOfThePing/TP-distribuidos
 [submodule "22C2 Base de Datos [75.15]/BDD2C2022"]
 	path = 22C2 Base de Datos [75.15]/BDD2C2022
 	url = https://github.com/LordOfThePing/BDD2C2022
